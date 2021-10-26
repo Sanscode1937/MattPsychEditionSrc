@@ -1,0 +1,39 @@
+{
+	"songs": [
+		[
+			"sporting",
+			"matt",
+			[
+				206,
+				153,
+				0
+			]
+		],
+		[
+			"boxing match",
+			"matt",
+			[
+				206,
+				153,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"matt",
+		"bf",
+		"gf"
+	],
+	"storyName": "WiiSport VsMatt(FridayNightFunkinMod)",
+	"weekName": "wiik2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "wiik1",
+	"startUnlocked": true
+}

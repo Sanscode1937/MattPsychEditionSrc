@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MattMad_Menu.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Menu_Matt0000" x="558" y="413" width="283" height="410" frameX="-7" frameY="-18" frameWidth="290" frameHeight="430"/>
+	<SubTexture name="Menu_Matt0001" x="558" y="0" width="281" height="413" frameX="-6" frameY="-15" frameWidth="290" frameHeight="430"/>
+	<SubTexture name="Menu_Matt0002" x="0" y="0" width="280" height="416" frameX="-5" frameY="-13" frameWidth="290" frameHeight="430"/>
+	<SubTexture name="Menu_Matt0003" x="280" y="0" width="278" height="418" frameX="-4" frameY="-11" frameWidth="290" frameHeight="430"/>
+	<SubTexture name="Menu_Matt0004" x="275" y="418" width="276" height="420" frameX="-3" frameY="-9" frameWidth="290" frameHeight="430"/>
+	<SubTexture name="Menu_Matt0005" x="0" y="416" width="275" height="422" frameX="-2" frameY="-7" frameWidth="290" frameHeight="430"/>
+	<SubTexture name="Menu_Matt0006" x="551" y="823" width="272" height="425" frameX="-2" frameY="-4" frameWidth="290" frameHeight="430"/>
+	<SubTexture name="Menu_Matt0007" x="0" y="838" width="270" height="427" frameX="-1" frameY="-2" frameWidth="290" frameHeight="430"/>
+	<SubTexture name="Menu_Matt0008" x="270" y="838" width="268" height="430" frameX="0" frameY="0" frameWidth="290" frameHeight="430"/>
+	<SubTexture name="Menu_Matt0009" x="270" y="838" width="268" height="430" frameX="0" frameY="0" frameWidth="290" frameHeight="430"/>
+	<SubTexture name="Menu_Matt0010" x="270" y="838" width="268" height="430" frameX="0" frameY="0" frameWidth="290" frameHeight="430"/>
+	<SubTexture name="Menu_Matt0011" x="270" y="838" width="268" height="430" frameX="0" frameY="0" frameWidth="290" frameHeight="430"/>
+	<SubTexture name="Menu_Matt0012" x="270" y="838" width="268" height="430" frameX="0" frameY="0" frameWidth="290" frameHeight="430"/>
+	<SubTexture name="Menu_Matt0013" x="270" y="838" width="268" height="430" frameX="0" frameY="0" frameWidth="290" frameHeight="430"/>
+</TextureAtlas>

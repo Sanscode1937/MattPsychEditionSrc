@@ -1,0 +1,9 @@
+{
+	"directory": "Arena",
+	"defaultZoom": 0.9,
+	"isPixelStage": false,
+
+	"boyfriend": [930, 200],
+	"girlfriend": [400, 230],
+	"opponent": [100, 220]
+}

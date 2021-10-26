@@ -1,0 +1,18 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "*Hey*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "matt",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "what are you two doing here? It's not training time"
+		}
+	]
+}

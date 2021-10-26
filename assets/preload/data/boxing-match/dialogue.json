@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "BAP"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "matt",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I got enough"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "matt",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Now die"
+		}
+	]
+}

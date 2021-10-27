@@ -22,14 +22,14 @@ class GameOverSubstate extends MusicBeatSubstate
 	var lePlayState:PlayState;
 
 	public static var characterName:String = 'bf';
-	public static var deathSoundName:String = 'fnf_loss_sfx';
-	public static var loopSoundName:String = 'gameOver';
+	public static var deathSoundName:String = 'lose';
+	public static var loopSoundName:String = 'wii';
 	public static var endSoundName:String = 'gameOverEnd';
 
 	public static function resetVariables() {
 		characterName = 'bf';
-		deathSoundName = 'fnf_loss_sfx';
-		loopSoundName = 'gameOver';
+		deathSoundName = 'lose';
+		loopSoundName = 'wii';
 		endSoundName = 'gameOverEnd';
 	}
 

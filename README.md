@@ -12,3 +12,5 @@ Add alphamatt fla
 fix a bad tings
 
 wii theme on gameover lol
+
+Make a chart possible to play

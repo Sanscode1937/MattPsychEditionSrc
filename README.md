@@ -8,3 +8,7 @@
 New icon matt 
 
 Add alphamatt fla
+
+fix a bad tings
+
+wii theme on gameover lol

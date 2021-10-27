@@ -96,9 +96,9 @@ class Note extends FlxSprite
 						missHealth = 0.4;
 					}
 					hitCausesMiss = true;
-					case 'Test':
+					case 'Boxing Note':
 						mustPress;
-						reloadNote('SUFFER');
+						reloadNote('BOXING');
 						noteSplashTexture = 'HURTnoteSplashes';
 						colorSwap.hue = 0;
 						colorSwap.saturation = 0;

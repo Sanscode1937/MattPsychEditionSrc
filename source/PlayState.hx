@@ -610,6 +610,9 @@ class PlayState extends MusicBeatState
 				add(idunno);
 
 			case 'Arena2':
+				GameOverSubstate.deathSoundName = 'lose';
+				GameOverSubstate.loopSoundName = 'wii';
+				
 				var bg:BGSprite = new BGSprite('boxingnight2', -600, -200, 0.9, 0.9);
 				add(bg);
 				bg.updateHitbox();				
